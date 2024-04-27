@@ -1,7 +1,5 @@
 # Pizza Sales Project
 
-![pizza_home](https://github.com/figo2001/Pizza-Sales-SQL/assets/78696850/e5be72a1-c241-4a6e-9c4d-f3c8e17a34cc)
-
 
 This project is a simple example of managing pizza sales using MySQL from scratch. It includes creating a database, designing tables, and implementing basic CRUD operations for managing pizza sales data.
 
